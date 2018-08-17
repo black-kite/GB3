@@ -112,6 +112,7 @@ public class Main {
                     System.out.print((char) bytes[offset]);
                     offset++;
                 }
+                
             }
         } catch (IOException e) {
             e.printStackTrace();
